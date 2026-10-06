@@ -1,7 +1,7 @@
 {
   "name": "ptmail-mcp",
   "owner": {
-    "name": "企雀官方 Qique"
+    "name": "企雀AI助手"
   },
   "metadata": {
     "description": "PTMail 邮箱聚合与邮件管理 AI Skill。通过已登录 Windows 客户端的本机 MCP 查看邮箱、读取邮件、同步、导出附件，并在用户授权后发送邮件。Use for PTMail multi-mailbox email assistance and local MCP setup."
